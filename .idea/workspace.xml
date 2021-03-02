@@ -26,7 +26,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.zadanie2">
+  <component name="RunManager" selected="Application.ZadaniaTablice">
+    <configuration name="ZadaniaPętle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaPętle" />
+      <module name="projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZadaniaTablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaTablice" />
+      <module name="projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zadania_Pętle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.basics.zadania.Zadania_Pętle" />
       <module name="projekt" />
@@ -66,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basics.zadania.zadania" />
-      <module name="projekt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="first_week.basics.zadania.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.basics.zadania.zadanie2" />
       <module name="projekt" />
@@ -94,10 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZadaniaTablice" />
+        <item itemvalue="Application.ZadaniaPętle" />
         <item itemvalue="Application.zadanie2" />
         <item itemvalue="Application.Zadania_Pętle" />
         <item itemvalue="Application.statements" />
-        <item itemvalue="Application.zadania" />
       </list>
     </recent_temporary>
   </component>
