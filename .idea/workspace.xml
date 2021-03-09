@@ -26,13 +26,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ZadaniePieczenie$Piec">
-    <configuration name="Metody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.Metody" />
+  <component name="RunManager" selected="Application.Zad3">
+    <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.tablicesroda.Zad1" />
       <module name="projekt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="PATTERN" value="second_week.loops.tablicesroda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,8 +40,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZadaniaPętle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaPętle" />
+    <configuration name="Zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.tablicesroda.Zad2" />
+      <module name="projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.loops.tablicesroda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.tablicesroda.Zad3" />
+      <module name="projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.loops.tablicesroda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanialisty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.Zadanialisty" />
       <module name="projekt" />
       <extension name="coverage">
         <pattern>
@@ -53,34 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZadaniaTablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniaTablice" />
-      <module name="projekt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZadaniePieczenie$Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniePieczenie$Piec" />
-      <module name="projekt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZadaniePieczenie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.ZadaniePieczenie" />
+    <configuration name="Zadaniatablice_ze_srody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.Zadaniatablice_ze_srody" />
       <module name="projekt" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZadaniePieczenie$Piec" />
-        <item itemvalue="Application.ZadaniePieczenie" />
-        <item itemvalue="Application.Metody" />
-        <item itemvalue="Application.ZadaniaPętle" />
-        <item itemvalue="Application.ZadaniaTablice" />
+        <item itemvalue="Application.Zad3" />
+        <item itemvalue="Application.Zadanialisty" />
+        <item itemvalue="Application.Zad2" />
+        <item itemvalue="Application.Zad1" />
+        <item itemvalue="Application.Zadaniatablice_ze_srody" />
       </list>
     </recent_temporary>
   </component>
